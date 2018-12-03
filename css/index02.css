@@ -1,0 +1,26 @@
+.header .head .right1 .search .one{
+    border: 1px solid white;
+    border-bottom-color: white;
+}
+.header .head .right1 .search .two{
+    border: 1px solid white;
+    border-bottom-color: green;
+}
+.product .search{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.product .search .tupian .one{
+    margin: 0 auto;
+}
+.product .search .tupian .two{
+    margin: 0 auto;
+}
+.product .search .tupian span{
+    color: green;
+}
+.product .search .tupian p{
+    text-indent: 20px;
+    color: gray;
+}

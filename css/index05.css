@@ -1,0 +1,37 @@
+.header .head .right1 .search .one{
+    border: 1px solid white;
+    border-bottom-color: white;
+}
+.header .head .right1 .search .five{
+    border: 1px solid white;
+    border-bottom-color: green;
+}
+.product{
+    height: 300px;
+}
+.product .search .tupian .one{
+    padding-top: 50px;
+    height: 200px;
+    border-bottom-color: white;
+}
+.product .search .tupian .two{
+    padding-top: 20px;
+    border-bottom-color: white;
+}
+.product .search .tupian .left{
+    height: 150px;
+    line-height: 150px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid white;
+    border-right-color: green;
+}
+.product .search .tupian .right{
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.product .search .tupian .right div{
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
